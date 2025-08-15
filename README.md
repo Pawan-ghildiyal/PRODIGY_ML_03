@@ -58,9 +58,9 @@ Decision tree visualization will open in a Matplotlib window.
 
 📷 Screenshots
 
-| GUI Interface          | Decision Tree Plot |
-| ---------------------- | ------------------ |
-| ![GUI](Figure_1.png)   | ![Tree](Figure_2.png) |
+| GUI Interface                              | Decision Tree Plot       |
+| ------------------------------------------ | ------------------------ |
+| ![GUI](Figure_1.png)                       | ![Tree](Figure_2.png)    |
 
 
 📊 Example Dataset

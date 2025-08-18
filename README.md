@@ -27,10 +27,10 @@ The dataset used is **Social_Network_Ads.csv**, which contains:
 ## 🖼️ Example Output  
 
 ### GUI Interface  
-![GUI](Figure_1.png)  
+![GUI](GUI.png)  
 
 ### Decision Tree Plot  
-![Decision Tree](Figure_2.png)  
+![Decision Tree](DecisionTree.png)  
 
 ---
 
